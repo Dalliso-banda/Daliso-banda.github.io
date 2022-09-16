@@ -1,0 +1,63 @@
+*{
+background: black;
+color: white;
+font: family;
+background-image: url("file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/search.bar/lake.jpg");
+background-size: cover;
+background-repeat:no-repeat;
+
+
+
+
+
+
+}
+h3{
+
+  
+}
+.container{
+width: 100%;
+min-height: 100vh;
+padding: 5%;
+background-image: url("file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/search.bar/lake.jpg");
+  background-size: cover;
+background-repeat:no-repeat;
+background-position: center;
+background-size: cover;
+display: flex;
+item-align: center;
+justify-content: center;
+background: transparent;
+
+
+  
+}
+
+
+}
+.search-bar{
+height: 300px;
+width: 400px;
+position: centre;
+background-size: cover;
+padding: 10%;
+background: grey;
+border-radius: 5%;
+background: ;
+border-radius: 20px;
+width: 20px;
+}
+
+
+   
+    
+
+
+
+
+
+
+
+
+
